@@ -3,9 +3,9 @@
 // Проверка на корректность e-mail
 $reg = '/^[a-z0-9_]+(\.[a-z0-9_-]+)*@([a-z0-9]+\.)+[a-z]{2,5}$/i';
 
-$email_1 = 'kostiantyn.panov@ugv.com.ua';
-$email_2 = 'kostiantyn.panov@upggk.poltava.ua';
-$email_3 = 'ACMilan1979@gmail.com';
+$email_1 = 'test@test.com';
+$email_2 = 'test2@test.com';
+$email_3 = 'test3@test.com';
 
 $email_4 = 'mail';
 $email_5 = 'alex@mail';

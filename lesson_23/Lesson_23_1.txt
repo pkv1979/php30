@@ -1,0 +1,6 @@
+1234
+Array
+3456
+&lt;script&gt;location.href=&quot;http://google.com&quot;&lt;/script&gt;
+location.href="http://google.com"
+<b>text</b>
