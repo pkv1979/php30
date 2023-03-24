@@ -1,0 +1,1 @@
+O:4:"User":2:{s:5:"email";s:13:"user@test.com";s:8:"password";s:32:"045f750c743c1f6904cc3bb305d7449f";}
